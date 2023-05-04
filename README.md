@@ -126,7 +126,7 @@
 
 > site:*/joomla/login
 
-**###Using special search string to find vulnerable websites:**
+### Using special search string to find vulnerable websites:
  
 > site:example.com inurl:php?=id1
 
