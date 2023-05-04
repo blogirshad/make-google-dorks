@@ -2,8 +2,6 @@
 
 > site:example.com -www -shop -share -ir -mfa
 
-> site:example.com intitle:index of /wp-admin
-
 ### PHP extension w/ parameters
 
 > site:example.com ext:php inurl:?
