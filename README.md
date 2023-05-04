@@ -115,6 +115,7 @@
 ### WordPress
 
 > inurl:/wp-admin/admin-ajax.php
+
 > site:example.com intitle:index of /wp-admin
 
 ### Drupal
