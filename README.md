@@ -127,70 +127,70 @@
 > site:*/joomla/login
 
 **###Using special search string to find vulnerable websites:**
-
-site:example.com inurl:php?=id1
-site:example.com inurl:index.php?id=
-site:example.com inurl:trainers.php?id=
-site:example.com inurl:buy.php?category=
-site:example.com inurl:article.php?ID=
-site:example.com inurl:play_old.php?id=
-site:example.com inurl:declaration_more.php?decl_id=
-site:example.com inurl:pageid=
-site:example.com inurl:games.php?id=
-site:example.com inurl:page.php?file=
-site:example.com inurl:newsDetail.php?id=
-site:example.com inurl:gallery.php?id=
-site:example.com inurl:article.php?id=
-site:example.com inurl:show.php?id=
-site:example.com inurl:staff_id=
-site:example.com inurl:newsitem.php?num= andinurl:index.php?id=
-site:example.com inurl:trainers.php?id=
-site:example.com inurl:buy.php?category=
-site:example.com inurl:article.php?ID=
-site:example.com inurl:play_old.php?id=
-site:example.com inurl:declaration_more.php?decl_id=
-site:example.com inurl:pageid=
-site:example.com inurl:games.php?id=
-site:example.com inurl:page.php?file=
-site:example.com inurl:newsDetail.php?id=
-site:example.com inurl:gallery.php?id=
-site:example.com inurl:article.php?id=
-site:example.com inurl:show.php?id=
-site:example.com inurl:staff_id=
-site:example.com inurl:newsitem.php?num=
-site:example.com inurl: 1051/viewer/live/index.html?lang=en
-site:example.com inurl: inurl:"view.shtml" ext:shtml
-site:example.com inurl:"/?q=user/password/"
-site:example.com inurl:"/cgi-bin/guestimage.html" "Menu"
-site:example.com inurl:"/php/info.php" "PHP Version"
-site:example.com inurl:"/phpmyadmin/user_password.php
-site:example.com inurl:"servicedesk/customer/user/login"
-site:example.com inurl:"view.shtml" "Network"
-site:example.com inurl:"view.shtml" "camera"
-site:example.com inurl:"woocommerce-exporter"
-site:example.com inurl:/?op=register
-site:example.com inurl:/Jview.htm + "View Video - Java Mode"
-site:example.com inurl:/Jview.htm + intext:"Zoom :"
-site:example.com inurl:/adfs/ls/?SAMLRequest
-site:example.com inurl:/adfs/ls/idpinitiatedsignon
-site:example.com inurl:/adfs/oauth2/authorize
-site:example.com inurl:/cgi-bin/manlist?section
-site:example.com inurl:/eftclient/account/login.htm
-site:example.com inurl:/homej.html?
-site:example.com inurl:/index.html?size=2&mode=4
-site:example.com inurl:/pro_users/login
-site:example.com inurl:/wp-content/themes/altair/
-site:example.com inurl:/xprober ext:php
-site:example.com inurl:RichWidgets/Popup_Upload.aspx
-site:example.com inurl:Sitefinity/Authenticate/SWT
-site:example.com inurl:adfs inurl:wctx inurl:wtrealm -microsoft.com
-site:example.com inurl:authorization.ping
-site:example.com inurl:https://trello.com AND intext:@gmail.com AND intext:password
-site:example.com inurl:idp/Authn/UserPassword
-site:example.com inurl:idp/prp.wsf
-site:example.com inurl:login.seam
-site:example.com inurl:nidp/idff/sso
-site:example.com inurl:oidc/authorize
-site:example.com inurl:opac_css
-site:example.com inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
+ 
+> site:example.com inurl:php?=id1
+> site:example.com inurl:index.php?id=
+> site:example.com inurl:trainers.php?id=
+> site:example.com inurl:buy.php?category=
+> site:example.com inurl:article.php?ID=
+> site:example.com inurl:play_old.php?id=
+> site:example.com inurl:declaration_more.php?decl_id=
+> site:example.com inurl:pageid=
+> site:example.com inurl:games.php?id=
+> site:example.com inurl:page.php?file=
+> site:example.com inurl:newsDetail.php?id=
+> site:example.com inurl:gallery.php?id=
+> site:example.com inurl:article.php?id=
+> site:example.com inurl:show.php?id=
+> site:example.com inurl:staff_id=
+> site:example.com inurl:newsitem.php?num= andinurl:index.php?id=
+> site:example.com inurl:trainers.php?id=
+> site:example.com inurl:buy.php?category=
+> site:example.com inurl:article.php?ID=
+> site:example.com inurl:play_old.php?id=
+> site:example.com inurl:declaration_more.php?decl_id=
+> site:example.com inurl:pageid=
+> site:example.com inurl:games.php?id=
+> site:example.com inurl:page.php?file=
+> site:example.com inurl:newsDetail.php?id=
+> site:example.com inurl:gallery.php?id=
+> site:example.com inurl:article.php?id=
+> site:example.com inurl:show.php?id=
+> site:example.com inurl:staff_id=
+> site:example.com inurl:newsitem.php?num=
+> site:example.com inurl: 1051/viewer/live/index.html?lang=en
+> site:example.com inurl: inurl:"view.shtml" ext:shtml
+> site:example.com inurl:"/?q=user/password/"
+> site:example.com inurl:"/cgi-bin/guestimage.html" "Menu"
+> site:example.com inurl:"/php/info.php" "PHP Version"
+> site:example.com inurl:"/phpmyadmin/user_password.php
+> site:example.com inurl:"servicedesk/customer/user/login"
+> site:example.com inurl:"view.shtml" "Network"
+> site:example.com inurl:"view.shtml" "camera"
+> site:example.com inurl:"woocommerce-exporter"
+> site:example.com inurl:/?op=register
+> site:example.com inurl:/Jview.htm + "View Video - Java Mode"
+> site:example.com inurl:/Jview.htm + intext:"Zoom :"
+> site:example.com inurl:/adfs/ls/?SAMLRequest
+> site:example.com inurl:/adfs/ls/idpinitiatedsignon
+> site:example.com inurl:/adfs/oauth2/authorize
+> site:example.com inurl:/cgi-bin/manlist?section
+> site:example.com inurl:/eftclient/account/login.htm
+> site:example.com inurl:/homej.html?
+> site:example.com inurl:/index.html?size=2&mode=4
+> site:example.com inurl:/pro_users/login
+> site:example.com inurl:/wp-content/themes/altair/
+> site:example.com inurl:/xprober ext:php
+> site:example.com inurl:RichWidgets/Popup_Upload.aspx
+> site:example.com inurl:Sitefinity/Authenticate/SWT
+> site:example.com inurl:adfs inurl:wctx inurl:wtrealm -microsoft.com
+> site:example.com inurl:authorization.ping
+> site:example.com inurl:https://trello.com AND intext:@gmail.com AND intext:password
+> site:example.com inurl:idp/Authn/UserPassword
+> site:example.com inurl:idp/prp.wsf
+> site:example.com inurl:login.seam
+> site:example.com inurl:nidp/idff/sso
+> site:example.com inurl:oidc/authorize
+> site:example.com inurl:opac_css
+> site:example.com inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
 
